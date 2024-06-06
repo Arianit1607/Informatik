@@ -13,3 +13,4 @@ public class Card{
     gewonnen();
 }
 }
+//du hs
