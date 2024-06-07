@@ -244,3 +244,4 @@ public class ka {
     System.out.println("Du hast 7 Karten.");
   }
 }
+//fick dich weg du Homofürst
